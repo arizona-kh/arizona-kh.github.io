@@ -21,7 +21,7 @@ body {
 .jumbotron {
     background-color: #ffffff !important;
     color: #3a3f46 !important;
-    height: 600px !important;
+    height: 700px !important;
     padding: 0 0 !important;
   }
 
@@ -304,7 +304,7 @@ body {
 }
 .socialMedia a {
   text-align: center;
-  font-size: 32px;
+  font-size: 6rem;
   color: #3a3f46 !important;
   padding: 20px 20px;
   transition: 0.2s;
